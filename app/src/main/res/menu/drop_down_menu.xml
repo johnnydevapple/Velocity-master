@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/dropdown_menu1"
+        android:showAsAction="ifRoom"
+        android:title="Control"
+        android:visible="true" />
+    <item
+        android:id="@+id/dropdown_menu2"
+        android:showAsAction="ifRoom|withText"
+        android:title="Electrical"
+        android:visible="true" />
+    <item
+        android:id="@+id/dropdown_menu3"
+        android:showAsAction="ifRoom"
+        android:title="Trash removal"
+        android:visible="true" />
+
+    </menu>
+

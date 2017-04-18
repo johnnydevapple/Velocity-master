@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Velocity</string>
+    <string name="take_photo">Take Photo</string>
+    <string name="priority">PRIORITY</string>
+    <string name="low">LOW</string>
+    <string name="high">HIGH</string>
+    <string name="urgent">URGENT</string>
+    <string name="desc">Descript</string>
+    <string name="choose_category">CHOOSE CATEGORY</string>
+</resources>
